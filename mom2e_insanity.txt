@@ -8,11 +8,8 @@ TEXT="1-{(name)}",[name],0%,0%,100%,6.647%
 FONT=Papyrus,7,I,#000000
 TEXT="1-{(flavor)}",[flavor],1.361%,6.949%,97.732%,16.616%,left,wordwrap
 ; rules
-Font=Trebuchet MS,6,,#000000
-HTMLTEXT="1-{(rules)}",[rules],1.134%,23.565%,97.052%,45.468%, #ffffff, 0, ef, 100,rulesFont
-; clarifications
-FONT=Calibri,6,,#000000
-TEXT="1-{(clarifications)}",[clarifications],0%,74.924%,100%,50%,left,wordwrap
+FONT=Trebuchet MS,6,,#000000
+HTMLTEXT="1-{(rules)}",[rules],1.134%,23.565%,97.052%,71.45%,#ffffff,0,ef,100,rulesFont
 ; player count
 FONT=Trebuchet MS,10,BIU,#000000
 TEXT="1-{(playerCount)}",[playerCount],0%,91.994%,9.977%,9.97%,left
