@@ -1,5 +1,5 @@
 LINK = mom2e_insanity.xlsx
-HTMLFONT=rules,Trebuchet MS, 6,,#000000
+HTMLFONT=rulesFont,Trebuchet MS, 6,,#000000
 VISUAL=, 10, 10
 ; name
 FONT=Calibri,13,BU,#31849B
@@ -8,7 +8,8 @@ TEXT="1-{(name)}",[name],0%,0%,100%,6.647%
 FONT=Papyrus,7,I,#000000
 TEXT="1-{(flavor)}",[flavor],1.361%,6.949%,97.732%,16.616%,left,wordwrap
 ; rules
-HTMLTEXT="1-{(rules)}",[rules],1.134%,23.565%,97.052%,45.468%, #ffffff,0, ,100 ,rules
+Font=Trebuchet MS,6,,#000000
+HTMLTEXT="1-{(rules)}",[rules],1.134%,23.565%,97.052%,45.468%, #ffffff, 0, ef, 100,rulesFont
 ; clarifications
 FONT=Calibri,6,,#000000
 TEXT="1-{(clarifications)}",[clarifications],0%,74.924%,100%,50%,left,wordwrap
