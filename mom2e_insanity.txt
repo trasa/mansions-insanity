@@ -1,6 +1,8 @@
 MARGINS = 1, 1, 1, 1.5
 LINK = mom2e_insanity.xlsx
 HTMLFONT=rulesFont,Trebuchet MS, 6,,#000000
+BORDER=ROUNDED, #000000, 0.125, MARK
+
 VISUAL=, 10, 10
 ; name
 FONT=Calibri,13,BU,#31849B
