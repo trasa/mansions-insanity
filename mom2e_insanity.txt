@@ -1,6 +1,6 @@
 MARGINS = 1, 1, 1, 1.5
 LINK = mom2e_insanity.xlsx
-HTMLFONT=rulesFont,Trebuchet MS, 6,,#000000
+HTMLFONT=rulesFont,Trebuchet MS, 8,,#000000
 BORDER=ROUNDED, #000000, 0.125, MARK
 
 VISUAL=, 10, 10
@@ -8,12 +8,12 @@ VISUAL=, 10, 10
 FONT=Calibri,13,BU,#31849B
 TEXT="1-{(name)}",[name],0%,0%,100%,6.647%
 ; flavor
-FONT=Papyrus,7,I,#000000
-TEXT="1-{(flavor)}",[flavor],1.361%,6.949%,97.732%,16.616%,left,wordwrap
+FONT=Papyrus,8,I,#000000
+TEXT="1-{(flavor)}",[flavor],2.721%,6.949%,93.878%,19.486%,left,wordwrap
 ; rules
-FONT=Trebuchet MS,6,,#000000
-HTMLTEXT="1-{(rules)}",[rules],1.134%,23.565%,97.052%,71.45%,#ffffff,0,ef,100,rulesFont
+FONT=Trebuchet MS,8,,#000000
+HTMLTEXT="1-{(rules)}",[rules],1.134%,26.888%,97.052%,68.127%,#ffffff,0,ef,100,rulesFont
 ; player count
 FONT=Trebuchet MS,10,BIU,#000000
-TEXT="1-{(playerCount)}",[playerCount],0%,91.994%,9.977%,9.97%,left
+TEXT="1-{(playerCount)}",[playerCount],8.163%,90.181%,9.977%,9.97%,left
 endvisual
